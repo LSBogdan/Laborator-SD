@@ -7,7 +7,7 @@ using namespace std;
 using namespace std::chrono;
 
 
-int v[100000], copie[100000], a[100000], ap[100000];
+int v[1000000], copie[1000000], a[1000000], ap[1000000];
 
 void generare_test(int n, int minim, int maxim, int v[])
 {
